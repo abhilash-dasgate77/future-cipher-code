@@ -17,4 +17,4 @@ The repository has 2 files i.e. (1) main.c (2) config.h
 
 # Register Switchings simulation
 
-Please have a look at the jupyter notebook poweranalysis.pynb in the repository.
+Please have a look at the jupyter notebook power_analysis.pynb in the repository.
