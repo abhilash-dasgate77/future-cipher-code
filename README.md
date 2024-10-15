@@ -13,7 +13,9 @@ In the "simulation" tab, select full_cir_tb.v, then Behavioural Check Syntax fol
 
 # Microcontroller PIC18F25K22
 
-The repository has 2 files i.e. (1) main.c (2) config.h
+The repository has 3 files i.e. (1) registermain.c (2) config.h
+
+download registermain.c and set the configuration bits from config.h file. The registermain.c execution takes 18ms/byte.
 
 # Register Switchings simulation
 
